@@ -525,8 +525,8 @@
       }
     },
     "gdex": {
-      "sha": "62acf7af3c2b91edd9d69a05ea1f25497ba36a8c",
-      "version": "4.11.4",
+      "sha": "df8087a886b4ba4d47a35aaec728747ff058c633",
+      "version": "4.12.0",
       "components": {
         "mcpServers": [
           {
@@ -650,6 +650,10 @@
           {
             "name": "gdex-ui-wallet-connection",
             "description": "React patterns for GDEX wallet connection — connect buttons, account displays, chain switching, and API key vs wallet a…"
+          },
+          {
+            "name": "gdex-usdc-wallet",
+            "description": "Unified USDC wallet — one USDC balance across chains, buy with USDC or native, sell to USDC, auto-bridge funding, nativ…"
           },
           {
             "name": "gdex-wallet-setup",
