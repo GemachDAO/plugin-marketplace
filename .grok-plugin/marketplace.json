@@ -468,7 +468,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GemachDAO/gdex-skill.git",
-        "sha": "d02c8ee49c45f6a9c950910348c79dc8f262b742",
+        "sha": "7e51b52977be7ada679d2cbe58107d14db83cd83",
         "path": "plugins/gdex"
       },
       "homepage": "https://gdex.pro",

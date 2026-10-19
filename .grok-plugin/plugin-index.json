@@ -525,8 +525,8 @@
       }
     },
     "gdex": {
-      "sha": "d02c8ee49c45f6a9c950910348c79dc8f262b742",
-      "version": "5.0.0",
+      "sha": "7e51b52977be7ada679d2cbe58107d14db83cd83",
+      "version": "5.1.0",
       "components": {
         "mcpServers": [
           {
