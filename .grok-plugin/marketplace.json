@@ -463,12 +463,12 @@
     },
     {
       "name": "gdex",
-      "description": "Official GDEX plugin (MCP Server + Skills) from Gemach DAO. Trade on GDEX (gdex.pro), a multi-chain trading terminal: spot swaps on Solana, Sui and 10 EVM chains, Hyperliquid perpetuals (including tokenized equities, FX and commodities), limit orders, copy trading, bridging, portfolio and token discovery. 33 skills plus the @gemachdao/gdex-mcp-server MCP server.",
+      "description": "Official GDEX plugin (MCP Server + Skills) from Gemach DAO. Trade on GDEX (gdex.pro), a multi-chain trading terminal: spot swaps on Solana, Sui and 10 EVM chains, Hyperliquid perpetuals (including tokenized equities, FX and commodities), limit orders, copy trading, bridging, portfolio and token discovery. 35 skills plus the @gemachdao/gdex-mcp-server MCP server.",
       "category": "finance",
       "source": {
         "source": "url",
         "url": "https://github.com/GemachDAO/gdex-skill.git",
-        "sha": "df8087a886b4ba4d47a35aaec728747ff058c633",
+        "sha": "d02c8ee49c45f6a9c950910348c79dc8f262b742",
         "path": "plugins/gdex"
       },
       "homepage": "https://gdex.pro",

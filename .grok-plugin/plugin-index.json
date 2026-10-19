@@ -525,8 +525,8 @@
       }
     },
     "gdex": {
-      "sha": "df8087a886b4ba4d47a35aaec728747ff058c633",
-      "version": "4.12.0",
+      "sha": "d02c8ee49c45f6a9c950910348c79dc8f262b742",
+      "version": "5.0.0",
       "components": {
         "mcpServers": [
           {
@@ -535,6 +535,10 @@
           }
         ],
         "skills": [
+          {
+            "name": "gdex-agent-trading",
+            "description": "Default agent flow for trading on GDEX via MCP — status, connect, preview, execute within the user's authority, follow…"
+          },
           {
             "name": "gdex-authentication",
             "description": "Managed-custody authentication — shared API key login, session keypair generation, encrypted computedData payloads, AES…"
@@ -561,7 +565,7 @@
           },
           {
             "name": "gdex-hl-outcomes",
-            "description": "HyperLiquid HIP-3 outcome / event markets — list markets, place outcome orders, and manage outcome positions"
+            "description": "Hyperliquid HIP-4 outcome markets on GDEX — discover a market, pick a side, check spot collateral, place a limit order,…"
           },
           {
             "name": "gdex-hl-referral",
@@ -593,7 +597,7 @@
           },
           {
             "name": "gdex-portfolio",
-            "description": "Cross-chain portfolio overview, chain-specific token balances, and paginated trade history"
+            "description": "Managed-account holdings, balances, native trading funds and cursor-paginated trade history per chain"
           },
           {
             "name": "gdex-retailer-onboarding",
@@ -605,7 +609,7 @@
           },
           {
             "name": "gdex-spot-trading",
-            "description": "Buy and sell tokens on Solana, Sui, and EVM chains with automatic DEX routing, slippage control, and percentage-based s…"
+            "description": "Managed-custody buy and sell with native on Solana and EVM chains (session-signed purchase_v2/sell_v2), exact amounts,…"
           },
           {
             "name": "gdex-token-discovery",
